@@ -35,7 +35,6 @@ int main_restroom() {
 
     int first = 0;
     int second = 0;
-
     int min_xor = std::numeric_limits<int>::max();
 
     for (int i = 0; i < n - 1; ++i) {

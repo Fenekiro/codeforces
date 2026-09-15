@@ -16,4 +16,7 @@ add_executable(codeforces main.cpp
         yargu_2026_2027_binary_operations/i_pan_balance.cpp
         contest_11_09_2026/a_butterfly_collector.cpp
         yargu_2026_2027_binary_operations/j_restroom.cpp
-        yargu_2026_2027_binary_operations/k_hide_and_seek.cpp)
+        yargu_2026_2027_binary_operations/k_hide_and_seek.cpp
+        yargu_2026_2027_binary_operations/l_dima_and_bad_xor.cpp
+        yargu_2026_2027_binary_operations/m_maximum_and_bits.cpp
+        yargu_2026_2027_binary_operations/n_bits.cpp)

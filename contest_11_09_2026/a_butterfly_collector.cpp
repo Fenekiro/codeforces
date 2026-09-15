@@ -20,7 +20,7 @@ bool binary_search(const std::vector<int>& arr, int number) {
     return false;
 }
 
-int main() {
+int main_butterfly_collector() {
     std::freopen("contest_11_09_2026/stream_files/collect.in", "r", stdin);
     std::freopen("contest_11_09_2026/stream_files/collect.out", "w", stdout);
 
